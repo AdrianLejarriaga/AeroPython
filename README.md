@@ -1,6 +1,6 @@
 # Classical Aerodynamics with Python
 
-Adrian Lejarriaga Rebollo has been editing this
+Adrian Lejarriaga Rebollo alea jacta est 
 
 > _Cite as_: Barba, Lorena A., and Mesnard, Olivier (2019). Aero Python: classical aerodynamics of potential flow using Python. Journal of Open Source Education, 2(15), 45, https://doi.org/10.21105/jose.00045
 
